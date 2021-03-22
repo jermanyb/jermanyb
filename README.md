@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jermanyb
 - 👀 I’m interested in crystals, yoga, and furry animals.
 - 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brown.jermanya@gmail.com
 
 <!---
