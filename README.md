@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jermanyb
-- 👀 I’m interested in crystals, yoga, and furry animals.
 - 🌱 I’m currently trying to code more during my free time.
 - 📫 How to reach me brown.jermanya@gmail.com
 
